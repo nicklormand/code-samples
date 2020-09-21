@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<root>
+	<test_assembly_asm_ref>
+		<__PIPE__test_assembly_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref>
+			<rotation value="[0.0, 0.0, 0.0]"/>
+			<scale value="[3.0, 3.0, 3.0]"/>
+			<translation value="[0.0, 0.0, 0.0]"/>
+		</__PIPE__test_assembly_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref>
+		<__PIPE__test_assembly_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__geometry_GRP>
+			<rotation value="[0.0, 0.0, 0.0]"/>
+			<scale value="[1.0, 1.0, 1.0]"/>
+			<translation value="[0.0, 0.0, 0.0]"/>
+		</__PIPE__test_assembly_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__geometry_GRP>
+		<__PIPE__test_assembly_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__geometry_GRP__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__ren_GRP>
+			<rotation value="[0.0, 0.0, 0.0]"/>
+			<scale value="[1.0, 1.0, 1.0]"/>
+			<translation value="[0.0, 0.0, 0.0]"/>
+		</__PIPE__test_assembly_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__geometry_GRP__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__ren_GRP>
+		<__PIPE__test_assembly_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__geometry_GRP__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__ren_GRP__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__testCube_REN>
+			<rotation value="[0.0, 0.0, 0.0]"/>
+			<scale value="[1.0, 1.0, 1.0]"/>
+			<translation value="[0.0, 0.0, 0.0]"/>
+		</__PIPE__test_assembly_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__geometry_GRP__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__ren_GRP__PIPE__test_assembly_asm_ref_NS__CLN__test_cube_asm_ref_NS__CLN__testCube_REN>
+	</test_assembly_asm_ref>
+</root>
