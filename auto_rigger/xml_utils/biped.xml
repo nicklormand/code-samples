@@ -1,0 +1,1394 @@
+<?xml version="1.0" ?>
+<root>
+    <pelvis__JOINT__>
+    <tx value = "0.0"/>
+    <ty value = "78.0527505583"/>
+    <tz value = "0.98672224287"/>
+    <rx value = "0"/>
+    <ry value = "0"/>
+    <rz value = "0"/>
+    <sx value = "1.0"/>
+    <sy value = "1.0"/>
+    <sz value = "1.0"/>
+    <children>
+        <__FIRST_VERTEBRAE__spine_1__JOINT__>
+            <tx value = "0.0"/>
+            <ty value = "85.0164046174"/>
+            <tz value = "0.791170981933"/>
+            <rx value = "90.0"/>
+            <ry value = "2.10221845514"/>
+            <rz value = "90.0"/>
+            <sx value = "1.0"/>
+            <sy value = "1.0"/>
+            <sz value = "1.0"/>
+            <children>
+                <__SECOND_VERTEBRAE__spine_2__JOINT__>
+                    <tx value = "1.50421668548e-17"/>
+                    <ty value = "91.3020788029"/>
+                    <tz value = "0.560442067974"/>
+                    <rx value = "90.0"/>
+                    <ry value = "2.09403792703"/>
+                    <rz value = "90.0"/>
+                    <sx value = "1.0"/>
+                    <sy value = "1.0"/>
+                    <sz value = "1.0"/>
+                    <children>
+                        <__THIRD_VERTEBRAE__spine_3__JOINT__>
+                            <tx value = "2.9921492364e-17"/>
+                            <ty value = "97.6245025882"/>
+                            <tz value = "0.329268091757"/>
+                            <rx value = "90.0"/>
+                            <ry value = "2.08255575232"/>
+                            <rz value = "90.0"/>
+                            <sx value = "1.0"/>
+                            <sy value = "1.0"/>
+                            <sz value = "1.0"/>
+                            <children>
+                                <__FOURTH_VERTEBRAE__spine_4__JOINT__>
+                                    <tx value = "4.45338389721e-17"/>
+                                    <ty value = "103.983927824"/>
+                                    <tz value = "0.0980173238554"/>
+                                    <rx value = "90.0"/>
+                                    <ry value = "2.05519225662"/>
+                                    <rz value = "90.0"/>
+                                    <sx value = "1.0"/>
+                                    <sy value = "1.0"/>
+                                    <sz value = "1.0"/>
+                                    <children>
+                                        <__FIFTH_VERTEBRAE__spine_5__JOINT__>
+                                            <tx value = "5.83210840673e-17"/>
+                                            <ty value = "110.351965033"/>
+                                            <tz value = "-0.130501369498"/>
+                                            <rx value = "90.0"/>
+                                            <ry value = "1.99635287004"/>
+                                            <rz value = "90.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__SIXTH_VERTEBRAE__spine_6__JOINT__>
+                                                    <tx value = "7.08649990171e-17"/>
+                                                    <ty value = "117.024997661"/>
+                                                    <tz value = "-0.363103518618"/>
+                                                    <rx value = "90.0"/>
+                                                    <ry value = "0.701708589774"/>
+                                                    <rz value = "90.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__SEVENTH_VERTEBRAE__spine_7__JOINT__>
+                                                            <tx value = "3.9876128225e-17"/>
+                                                            <ty value = "124.079022905"/>
+                                                            <tz value = "-0.449499369126"/>
+                                                            <rx value = "90.0"/>
+                                                            <ry value = "2.17474555996"/>
+                                                            <rz value = "90.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                                <neck__JOINT__>
+                                                                    <tx value = "5.24109965689e-17"/>
+                                                                    <ty value = "128.645827393"/>
+                                                                    <tz value = "-0.622922439722"/>
+                                                                    <rx value = "90.0"/>
+                                                                    <ry value = "0.408430456599"/>
+                                                                    <rz value = "90.0"/>
+                                                                    <sx value = "1.0"/>
+                                                                    <sy value = "1.0"/>
+                                                                    <sz value = "1.0"/>
+                                                                    <children>
+                                                                        <head__JOINT__>
+                                                                            <tx value = "-2.19982565799e-17"/>
+                                                                            <ty value = "141.445506012"/>
+                                                                            <tz value = "-0.714165934067"/>
+                                                                            <rx value = "90.0"/>
+                                                                            <ry value = "0.408430456599"/>
+                                                                            <rz value = "90.0"/>
+                                                                            <sx value = "1.0"/>
+                                                                            <sy value = "1.0"/>
+                                                                            <sz value = "1.0"/>
+                                                                            <children>
+                                                                                <head_Tip__JOINT__>
+                                                                                    <tx value = "-1.68238984872e-16"/>
+                                                                                    <ty value = "166.601440844"/>
+                                                                                    <tz value = "-0.893491952006"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "1.0097419569"/>
+                                                                                    <rz value = "90.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                </children>
+                                                                                </head_Tip__JOINT__>
+                                                                            </children>
+                                                                        </head__JOINT__>
+                                                                    </children>
+                                                                </neck__JOINT__>
+                                                                <__LEFT__clavicle__JOINT__>
+                                                                    <tx value = "4.84262308638"/>
+                                                                    <ty value = "123.712497876"/>
+                                                                    <tz value = "1.72442338878"/>
+                                                                    <rx value = "6.61029603354"/>
+                                                                    <ry value = "22.1636748871"/>
+                                                                    <rz value = "17.0760856169"/>
+                                                                    <sx value = "1.0"/>
+                                                                    <sy value = "1.0"/>
+                                                                    <sz value = "1.0"/>
+                                                                    <children>
+                                                                        <__LEFT__shoulder__JOINT__>
+                                                                            <tx value = "11.2760720276"/>
+                                                                            <ty value = "125.688746217"/>
+                                                                            <tz value = "-1.01712085764"/>
+                                                                            <rx value = "-0.441128489905"/>
+                                                                            <ry value = "2.72130304778"/>
+                                                                            <rz value = "0.147000520106"/>
+                                                                            <sx value = "1.0"/>
+                                                                            <sy value = "1.0"/>
+                                                                            <sz value = "1.0"/>
+                                                                            <children>
+                                                                                <__LEFT__elbow__JOINT__>
+                                                                                    <tx value = "35.6131340525"/>
+                                                                                    <ty value = "125.751186569"/>
+                                                                                    <tz value = "-2.17390038118"/>
+                                                                                    <rx value = "-0.4407002984"/>
+                                                                                    <ry value = "-1.01596755324"/>
+                                                                                    <rz value = "0.175758995147"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                        <__LEFT__wrist__JOINT__>
+                                                                                            <tx value = "54.7318119335"/>
+                                                                                            <ty value = "125.810119365"/>
+                                                                                            <tz value = "-1.79779563"/>
+                                                                                            <rx value = "-0.440624808473"/>
+                                                                                            <ry value = "-0.0505364380642"/>
+                                                                                            <rz value = "0.168333418525"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                <__LEFT__palm__JOINT__>
+                                                                                                    <tx value = "58.9959960445"/>
+                                                                                                    <ty value = "126.116686184"/>
+                                                                                                    <tz value = "-1.62624810706"/>
+                                                                                                    <rx value = "-0.440624808175"/>
+                                                                                                    <ry value = "-0.0504924475022"/>
+                                                                                                    <rz value = "0.168333080215"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                        <__FIRST_FINGER____LEFT__pinky_1__JOINT__>
+                                                                                                            <tx value = "64.7149653595"/>
+                                                                                                            <ty value = "125.857328396"/>
+                                                                                                            <tz value = "-5.85982154741"/>
+                                                                                                            <rx value = "-0.414331066146"/>
+                                                                                                            <ry value = "3.82524872614"/>
+                                                                                                            <rz value = "0.547517377075"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__FIRST_FINGER____LEFT__pinky_2__JOINT__>
+                                                                                                                    <tx value = "68.7897845706"/>
+                                                                                                                    <ty value = "125.888228711"/>
+                                                                                                                    <tz value = "-6.04998836389"/>
+                                                                                                                    <rx value = "-0.497481563531"/>
+                                                                                                                    <ry value = "2.80040290395"/>
+                                                                                                                    <rz value = "-1.00459993238"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__FIRST_FINGER____LEFT__pinky_3__JOINT__>
+                                                                                                                            <tx value = "71.8331674379"/>
+                                                                                                                            <ty value = "125.833508685"/>
+                                                                                                                            <tz value = "-6.20217076495"/>
+                                                                                                                            <rx value = "-0.381639895474"/>
+                                                                                                                            <ry value = "1.66498311507"/>
+                                                                                                                            <rz value = "2.20041858577"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__FIRST_FINGER____LEFT__pinky_Tip__JOINT__>
+                                                                                                                                    <tx value = "74.7759816696"/>
+                                                                                                                                    <ty value = "125.94423635"/>
+                                                                                                                                    <tz value = "-6.28579357393"/>
+                                                                                                                                    <rx value = "-0.381639895474"/>
+                                                                                                                                    <ry value = "1.66498311507"/>
+                                                                                                                                    <rz value = "2.20041858577"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__FIRST_FINGER____LEFT__pinky_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__FIRST_FINGER____LEFT__pinky_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__FIRST_FINGER____LEFT__pinky_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__FIRST_FINGER____LEFT__pinky_1__JOINT__>
+                                                                                                        <__THIRD_FINGER____LEFT__ring_1__JOINT__>
+                                                                                                            <tx value = "65.5579314879"/>
+                                                                                                            <ty value = "126.35527993"/>
+                                                                                                            <tz value = "-3.38243892151"/>
+                                                                                                            <rx value = "-0.473474656814"/>
+                                                                                                            <ry value = "2.72729125433"/>
+                                                                                                            <rz value = "-0.532246737269"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__THIRD_FINGER____LEFT__ring_2__JOINT__>
+                                                                                                                    <tx value = "70.0804031202"/>
+                                                                                                                    <ty value = "126.325955962"/>
+                                                                                                                    <tz value = "-3.54753261534"/>
+                                                                                                                    <rx value = "-0.404391240059"/>
+                                                                                                                    <ry value = "2.82988753514"/>
+                                                                                                                    <rz value = "0.892769463381"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__THIRD_FINGER____LEFT__ring_3__JOINT__>
+                                                                                                                            <tx value = "73.3312009404"/>
+                                                                                                                            <ty value = "126.37437391"/>
+                                                                                                                            <tz value = "-3.69933143447"/>
+                                                                                                                            <rx value = "-0.381145835522"/>
+                                                                                                                            <ry value = "1.66560802764"/>
+                                                                                                                            <rz value = "2.21678312217"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__THIRD_FINGER____LEFT__ring_Tip__JOINT__>
+                                                                                                                                    <tx value = "76.7196978447"/>
+                                                                                                                                    <ty value = "126.505540868"/>
+                                                                                                                                    <tz value = "-3.79793775736"/>
+                                                                                                                                    <rx value = "-0.381145835522"/>
+                                                                                                                                    <ry value = "1.66560802764"/>
+                                                                                                                                    <rz value = "2.21678312217"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__THIRD_FINGER____LEFT__ring_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__THIRD_FINGER____LEFT__ring_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__THIRD_FINGER____LEFT__ring_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__THIRD_FINGER____LEFT__ring_1__JOINT__>
+                                                                                                        <__FIFTH_FINGER____LEFT__middle_1__JOINT__>
+                                                                                                            <tx value = "65.7346182956"/>
+                                                                                                            <ty value = "126.464088274"/>
+                                                                                                            <tz value = "-0.725624178833"/>
+                                                                                                            <rx value = "-0.492268702686"/>
+                                                                                                            <ry value = "-1.00121968277"/>
+                                                                                                            <rz value = "3.09211013629"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__FIFTH_FINGER____LEFT__middle_2__JOINT__>
+                                                                                                                    <tx value = "70.6436287816"/>
+                                                                                                                    <ty value = "126.675428031"/>
+                                                                                                                    <tz value = "-0.657226165983"/>
+                                                                                                                    <rx value = "-0.429500328704"/>
+                                                                                                                    <ry value = "-0.981969683982"/>
+                                                                                                                    <rz value = "-0.479038987507"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__FIFTH_FINGER____LEFT__middle_3__JOINT__>
+                                                                                                                            <tx value = "73.8811473962"/>
+                                                                                                                            <ty value = "126.650174809"/>
+                                                                                                                            <tz value = "-0.604344942643"/>
+                                                                                                                            <rx value = "-0.673057409459"/>
+                                                                                                                            <ry value = "-2.13485387744"/>
+                                                                                                                            <rz value = "2.26202394449"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__FIFTH_FINGER____LEFT__middle_Tip__JOINT__>
+                                                                                                                                    <tx value = "77.2845616413"/>
+                                                                                                                                    <ty value = "126.784661707"/>
+                                                                                                                                    <tz value = "-0.473030126135"/>
+                                                                                                                                    <rx value = "-0.673057409459"/>
+                                                                                                                                    <ry value = "-2.13485387744"/>
+                                                                                                                                    <rz value = "2.26202394449"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__FIFTH_FINGER____LEFT__middle_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__FIFTH_FINGER____LEFT__middle_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__FIFTH_FINGER____LEFT__middle_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__FIFTH_FINGER____LEFT__middle_1__JOINT__>
+                                                                                                        <__SECOND_FINGER____LEFT__index_1__JOINT__>
+                                                                                                            <tx value = "65.4506275762"/>
+                                                                                                            <ty value = "126.50518457"/>
+                                                                                                            <tz value = "2.04887766925"/>
+                                                                                                            <rx value = "-0.39090167585"/>
+                                                                                                            <ry value = "-1.08754239904"/>
+                                                                                                            <rz value = "-2.47052545052"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__SECOND_FINGER____LEFT__index_2__JOINT__>
+                                                                                                                    <tx value = "70.3258785364"/>
+                                                                                                                    <ty value = "126.350820537"/>
+                                                                                                                    <tz value = "2.11950225792"/>
+                                                                                                                    <rx value = "-0.462105420699"/>
+                                                                                                                    <ry value = "-1.39020948213"/>
+                                                                                                                    <rz value = "1.05648198562"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__SECOND_FINGER____LEFT__index_3__JOINT__>
+                                                                                                                            <tx value = "73.4012287429"/>
+                                                                                                                            <ty value = "126.407533621"/>
+                                                                                                                            <tz value = "2.19414907005"/>
+                                                                                                                            <rx value = "-0.503952674029"/>
+                                                                                                                            <ry value = "-1.72659054642"/>
+                                                                                                                            <rz value = "2.2658032307"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__SECOND_FINGER____LEFT__index_Tip__JOINT__>
+                                                                                                                                    <tx value = "76.7884622571"/>
+                                                                                                                                    <ty value = "126.541554102"/>
+                                                                                                                                    <tz value = "2.29633310087"/>
+                                                                                                                                    <rx value = "-0.564078449375"/>
+                                                                                                                                    <ry value = "-3.36466304559"/>
+                                                                                                                                    <rz value = "2.27847090798"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__SECOND_FINGER____LEFT__index_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__SECOND_FINGER____LEFT__index_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__SECOND_FINGER____LEFT__index_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__SECOND_FINGER____LEFT__index_1__JOINT__>
+                                                                                                        <__FOURTH_FINGER____LEFT__thumb_1__JOINT__>
+                                                                                                            <tx value = "57.7868345684"/>
+                                                                                                            <ty value = "125.069883045"/>
+                                                                                                            <tz value = "2.20170659124"/>
+                                                                                                            <rx value = "29.5094174749"/>
+                                                                                                            <ry value = "-61.055030389"/>
+                                                                                                            <rz value = "-10.9080543708"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__FOURTH_FINGER____LEFT__thumb_2__JOINT__>
+                                                                                                                    <tx value = "59.9659853606"/>
+                                                                                                                    <ty value = "124.649927042"/>
+                                                                                                                    <tz value = "6.214420182"/>
+                                                                                                                    <rx value = "56.7640718196"/>
+                                                                                                                    <ry value = "-55.9575345674"/>
+                                                                                                                    <rz value = "-37.1538168627"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__FOURTH_FINGER____LEFT__thumb_3__JOINT__>
+                                                                                                                            <tx value = "61.4003764929"/>
+                                                                                                                            <ty value = "123.562986118"/>
+                                                                                                                            <tz value = "8.87832348738"/>
+                                                                                                                            <rx value = "46.4310110011"/>
+                                                                                                                            <ry value = "-64.3805858886"/>
+                                                                                                                            <rz value = "-25.2849529058"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__FOURTH_FINGER____LEFT__thumb_Tip__JOINT__>
+                                                                                                                                    <tx value = "62.7330951953"/>
+                                                                                                                                    <ty value = "122.933441026"/>
+                                                                                                                                    <tz value = "11.9519770872"/>
+                                                                                                                                    <rx value = "41.5269204678"/>
+                                                                                                                                    <ry value = "-66.0355278045"/>
+                                                                                                                                    <rz value = "-23.3599840021"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__FOURTH_FINGER____LEFT__thumb_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__FOURTH_FINGER____LEFT__thumb_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__FOURTH_FINGER____LEFT__thumb_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__FOURTH_FINGER____LEFT__thumb_1__JOINT__>
+                                                                                                    </children>
+                                                                                                </__LEFT__palm__JOINT__>
+                                                                                            </children>
+                                                                                        </__LEFT__wrist__JOINT__>
+                                                                                    </children>
+                                                                                </__LEFT__elbow__JOINT__>
+                                                                            </children>
+                                                                        </__LEFT__shoulder__JOINT__>
+                                                                    </children>
+                                                                </__LEFT__clavicle__JOINT__>
+                                                                <__RIGHT__clavicle__JOINT__>
+                                                                    <tx value = "-4.84262"/>
+                                                                    <ty value = "123.712"/>
+                                                                    <tz value = "1.72442"/>
+                                                                    <rx value = "-173.389703966"/>
+                                                                    <ry value = "-22.1636748871"/>
+                                                                    <rz value = "-17.0760856169"/>
+                                                                    <sx value = "1.0"/>
+                                                                    <sy value = "1.0"/>
+                                                                    <sz value = "1.0"/>
+                                                                    <children>
+                                                                        <__RIGHT__shoulder__JOINT__>
+                                                                            <tx value = "-11.2761"/>
+                                                                            <ty value = "125.689"/>
+                                                                            <tz value = "-1.01712"/>
+                                                                            <rx value = "179.55887151"/>
+                                                                            <ry value = "-2.72130304778"/>
+                                                                            <rz value = "-0.147000520106"/>
+                                                                            <sx value = "1.0"/>
+                                                                            <sy value = "1.0"/>
+                                                                            <sz value = "1.0"/>
+                                                                            <children>
+                                                                                <__RIGHT__elbow__JOINT__>
+                                                                                    <tx value = "-35.6131"/>
+                                                                                    <ty value = "125.751"/>
+                                                                                    <tz value = "-2.1739"/>
+                                                                                    <rx value = "179.55930118"/>
+                                                                                    <ry value = "1.01596755324"/>
+                                                                                    <rz value = "-0.175758995149"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                        <__RIGHT__wrist__JOINT__>
+                                                                                            <tx value = "-54.7318"/>
+                                                                                            <ty value = "125.81"/>
+                                                                                            <tz value = "-1.7978"/>
+                                                                                            <rx value = "179.559378579"/>
+                                                                                            <ry value = "0.0505364378726"/>
+                                                                                            <rz value = "-0.168333443445"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                <__RIGHT__palm__JOINT__>
+                                                                                                    <tx value = "-58.996"/>
+                                                                                                    <ty value = "126.117"/>
+                                                                                                    <tz value = "-1.62625"/>
+                                                                                                    <rx value = "179.559382201"/>
+                                                                                                    <ry value = "0.0505364378726"/>
+                                                                                                    <rz value = "-0.168333443445"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                        <__FIRST_FINGER____RIGHT__pinky_1__JOINT__>
+                                                                                                            <tx value = "-64.715"/>
+                                                                                                            <ty value = "125.857"/>
+                                                                                                            <tz value = "-5.85982"/>
+                                                                                                            <rx value = "179.585668934"/>
+                                                                                                            <ry value = "-3.82524872614"/>
+                                                                                                            <rz value = "-0.547517377075"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__FIRST_FINGER____RIGHT__pinky_2__JOINT__>
+                                                                                                                    <tx value = "-68.7898"/>
+                                                                                                                    <ty value = "125.888"/>
+                                                                                                                    <tz value = "-6.04999"/>
+                                                                                                                    <rx value = "179.502518437"/>
+                                                                                                                    <ry value = "-2.80040290395"/>
+                                                                                                                    <rz value = "1.00459993238"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__FIRST_FINGER____RIGHT__pinky_3__JOINT__>
+                                                                                                                            <tx value = "-71.8332"/>
+                                                                                                                            <ty value = "125.834"/>
+                                                                                                                            <tz value = "-6.20217"/>
+                                                                                                                            <rx value = "179.618360104"/>
+                                                                                                                            <ry value = "-1.66498311507"/>
+                                                                                                                            <rz value = "-2.20041858577"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__FIRST_FINGER____RIGHT__pinky_Tip__JOINT__>
+                                                                                                                                    <tx value = "-74.776"/>
+                                                                                                                                    <ty value = "125.944"/>
+                                                                                                                                    <tz value = "-6.28579"/>
+                                                                                                                                    <rx value = "179.618360104"/>
+                                                                                                                                    <ry value = "-1.66498311507"/>
+                                                                                                                                    <rz value = "-2.20041858577"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__FIRST_FINGER____RIGHT__pinky_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__FIRST_FINGER____RIGHT__pinky_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__FIRST_FINGER____RIGHT__pinky_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__FIRST_FINGER____RIGHT__pinky_1__JOINT__>
+                                                                                                        <__THIRD_FINGER____RIGHT__ring_1__JOINT__>
+                                                                                                            <tx value = "-65.5579"/>
+                                                                                                            <ty value = "126.355"/>
+                                                                                                            <tz value = "-3.38244"/>
+                                                                                                            <rx value = "179.526525343"/>
+                                                                                                            <ry value = "-2.72729125433"/>
+                                                                                                            <rz value = "0.532246737269"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__THIRD_FINGER____RIGHT__ring_2__JOINT__>
+                                                                                                                    <tx value = "-70.0804"/>
+                                                                                                                    <ty value = "126.326"/>
+                                                                                                                    <tz value = "-3.54753"/>
+                                                                                                                    <rx value = "179.595610239"/>
+                                                                                                                    <ry value = "-2.82988753514"/>
+                                                                                                                    <rz value = "-0.892769463381"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__THIRD_FINGER____RIGHT__ring_3__JOINT__>
+                                                                                                                            <tx value = "-73.3312"/>
+                                                                                                                            <ty value = "126.374"/>
+                                                                                                                            <tz value = "-3.69933"/>
+                                                                                                                            <rx value = "179.618854164"/>
+                                                                                                                            <ry value = "-1.66560802764"/>
+                                                                                                                            <rz value = "-2.21678312217"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__THIRD_FINGER____RIGHT__ring_Tip__JOINT__>
+                                                                                                                                    <tx value = "-76.7197"/>
+                                                                                                                                    <ty value = "126.506"/>
+                                                                                                                                    <tz value = "-3.79794"/>
+                                                                                                                                    <rx value = "179.618856256"/>
+                                                                                                                                    <ry value = "-1.66560802764"/>
+                                                                                                                                    <rz value = "-2.21678312217"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__THIRD_FINGER____RIGHT__ring_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__THIRD_FINGER____RIGHT__ring_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__THIRD_FINGER____RIGHT__ring_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__THIRD_FINGER____RIGHT__ring_1__JOINT__>
+                                                                                                        <__FIFTH_FINGER____RIGHT__middle_1__JOINT__>
+                                                                                                            <tx value = "-65.7346"/>
+                                                                                                            <ty value = "126.464"/>
+                                                                                                            <tz value = "-0.725624"/>
+                                                                                                            <rx value = "179.507731297"/>
+                                                                                                            <ry value = "1.00121968277"/>
+                                                                                                            <rz value = "-3.09211013629"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__FIFTH_FINGER____RIGHT__middle_2__JOINT__>
+                                                                                                                    <tx value = "-70.6436"/>
+                                                                                                                    <ty value = "126.675"/>
+                                                                                                                    <tz value = "-0.657226"/>
+                                                                                                                    <rx value = "179.570499672"/>
+                                                                                                                    <ry value = "0.981969683982"/>
+                                                                                                                    <rz value = "0.479038987507"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__FIFTH_FINGER____RIGHT__middle_3__JOINT__>
+                                                                                                                            <tx value = "-73.8811"/>
+                                                                                                                            <ty value = "126.65"/>
+                                                                                                                            <tz value = "-0.604345"/>
+                                                                                                                            <rx value = "179.326942591"/>
+                                                                                                                            <ry value = "2.13485387744"/>
+                                                                                                                            <rz value = "-2.26202394449"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <____FIFTH_FINGER__RIGHT__middle_Tip__JOINT__>
+                                                                                                                                    <tx value = "-77.2846"/>
+                                                                                                                                    <ty value = "126.785"/>
+                                                                                                                                    <tz value = "-0.47303"/>
+                                                                                                                                    <rx value = "179.326943798"/>
+                                                                                                                                    <ry value = "2.13485387744"/>
+                                                                                                                                    <rz value = "-2.26202394449"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </____FIFTH_FINGER__RIGHT__middle_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__FIFTH_FINGER____RIGHT__middle_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__FIFTH_FINGER____RIGHT__middle_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__FIFTH_FINGER____RIGHT__middle_1__JOINT__>
+                                                                                                        <__SECOND_FINGER____RIGHT__index_1__JOINT__>
+                                                                                                            <tx value = "-65.4506"/>
+                                                                                                            <ty value = "126.505"/>
+                                                                                                            <tz value = "2.04888"/>
+                                                                                                            <rx value = "179.609098324"/>
+                                                                                                            <ry value = "1.08754239904"/>
+                                                                                                            <rz value = "2.47052545052"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__SECOND_FINGER____RIGHT__index_2__JOINT__>
+                                                                                                                    <tx value = "-70.3259"/>
+                                                                                                                    <ty value = "126.351"/>
+                                                                                                                    <tz value = "2.1195"/>
+                                                                                                                    <rx value = "179.537894579"/>
+                                                                                                                    <ry value = "1.39020948213"/>
+                                                                                                                    <rz value = "-1.05648198562"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__SECOND_FINGER____RIGHT__index_3__JOINT__>
+                                                                                                                            <tx value = "-73.4012"/>
+                                                                                                                            <ty value = "126.408"/>
+                                                                                                                            <tz value = "2.19415"/>
+                                                                                                                            <rx value = "179.496047326"/>
+                                                                                                                            <ry value = "1.72659054642"/>
+                                                                                                                            <rz value = "-2.2658032307"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__SECOND_FINGER____RIGHT__index_Tip__JOINT__>
+                                                                                                                                    <tx value = "-76.7885"/>
+                                                                                                                                    <ty value = "126.542"/>
+                                                                                                                                    <tz value = "2.29633"/>
+                                                                                                                                    <rx value = "179.435921551"/>
+                                                                                                                                    <ry value = "3.36466304559"/>
+                                                                                                                                    <rz value = "-2.27847090798"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__SECOND_FINGER____RIGHT__index_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__SECOND_FINGER____RIGHT__index_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__SECOND_FINGER____RIGHT__index_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__SECOND_FINGER____RIGHT__index_1__JOINT__>
+                                                                                                        <__FOURTH_FINGER____RIGHT__thumb_1__JOINT__>
+                                                                                                            <tx value = "-57.7868"/>
+                                                                                                            <ty value = "125.07"/>
+                                                                                                            <tz value = "2.20171"/>
+                                                                                                            <rx value = "-150.490582525"/>
+                                                                                                            <ry value = "61.055030389"/>
+                                                                                                            <rz value = "10.9080543708"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                                <__FOURTH_FINGER____RIGHT__thumb_2__JOINT__>
+                                                                                                                    <tx value = "-59.966"/>
+                                                                                                                    <ty value = "124.65"/>
+                                                                                                                    <tz value = "6.21442"/>
+                                                                                                                    <rx value = "-123.23592818"/>
+                                                                                                                    <ry value = "55.9575345674"/>
+                                                                                                                    <rz value = "37.1538168627"/>
+                                                                                                                    <sx value = "1.0"/>
+                                                                                                                    <sy value = "1.0"/>
+                                                                                                                    <sz value = "1.0"/>
+                                                                                                                    <children>
+                                                                                                                        <__FOURTH_FINGER____RIGHT__thumb_3__JOINT__>
+                                                                                                                            <tx value = "-61.4004"/>
+                                                                                                                            <ty value = "123.563"/>
+                                                                                                                            <tz value = "8.87832"/>
+                                                                                                                            <rx value = "-133.568988145"/>
+                                                                                                                            <ry value = "64.3805858886"/>
+                                                                                                                            <rz value = "25.2849529058"/>
+                                                                                                                            <sx value = "1.0"/>
+                                                                                                                            <sy value = "1.0"/>
+                                                                                                                            <sz value = "1.0"/>
+                                                                                                                            <children>
+                                                                                                                                <__FOURTH_FINGER____RIGHT__thumb_Tip__JOINT__>
+                                                                                                                                    <tx value = "-62.7331"/>
+                                                                                                                                    <ty value = "122.933"/>
+                                                                                                                                    <tz value = "11.952"/>
+                                                                                                                                    <rx value = "-138.473079532"/>
+                                                                                                                                    <ry value = "66.0355278045"/>
+                                                                                                                                    <rz value = "23.3599840021"/>
+                                                                                                                                    <sx value = "1.0"/>
+                                                                                                                                    <sy value = "1.0"/>
+                                                                                                                                    <sz value = "1.0"/>
+                                                                                                                                    <children>
+                                                                                                                                </children>
+                                                                                                                                </__FOURTH_FINGER____RIGHT__thumb_Tip__JOINT__>
+                                                                                                                            </children>
+                                                                                                                        </__FOURTH_FINGER____RIGHT__thumb_3__JOINT__>
+                                                                                                                    </children>
+                                                                                                                </__FOURTH_FINGER____RIGHT__thumb_2__JOINT__>
+                                                                                                            </children>
+                                                                                                        </__FOURTH_FINGER____RIGHT__thumb_1__JOINT__>
+                                                                                                    </children>
+                                                                                                </__RIGHT__palm__JOINT__>
+                                                                                            </children>
+                                                                                        </__RIGHT__wrist__JOINT__>
+                                                                                    </children>
+                                                                                </__RIGHT__elbow__JOINT__>
+                                                                            </children>
+                                                                        </__RIGHT__shoulder__JOINT__>
+                                                                    </children>
+                                                                </__RIGHT__clavicle__JOINT__>
+                                                            </children>
+                                                        </__SEVENTH_VERTEBRAE__spine_7__JOINT__>
+                                                    </children>
+                                                </__SIXTH_VERTEBRAE__spine_6__JOINT__>
+                                            </children>
+                                        </__FIFTH_VERTEBRAE__spine_5__JOINT__>
+                                    </children>
+                                </__FOURTH_VERTEBRAE__spine_4__JOINT__>
+                            </children>
+                        </__THIRD_VERTEBRAE__spine_3__JOINT__>
+                    </children>
+                </__SECOND_VERTEBRAE__spine_2__JOINT__>
+            </children>
+        </__FIRST_VERTEBRAE__spine_1__JOINT__>
+        <__LEFT__hip__JOINT__>
+            <tx value = "6.74643"/>
+            <ty value = "84.1232"/>
+            <tz value = "0.872149"/>
+            <rx value = "0"/>
+            <ry value = "0"/>
+            <rz value = "0"/>
+            <sx value = "1.0"/>
+            <sy value = "1.0"/>
+            <sz value = "1.0"/>
+            <children>
+                <__LEFT__knee__JOINT__>
+                    <tx value = "7.20061034837"/>
+                    <ty value = "43.7754407914"/>
+                    <tz value = "1.40093226706"/>
+                    <rx value = "0"/>
+                    <ry value = "0"/>
+                    <rz value = "0"/>
+                    <sx value = "1.0"/>
+                    <sy value = "1.0"/>
+                    <sz value = "1.0"/>
+                    <children>
+                        <__LEFT__ankle__JOINT__>
+                            <tx value = "7.20867636014"/>
+                            <ty value = "5.4042778341"/>
+                            <tz value = "-1.65260172747"/>
+                            <rx value = "-90.0"/>
+                            <ry value = "0"/>
+                            <rz value = "-90"/>
+                            <sx value = "1.0"/>
+                            <sy value = "1.0"/>
+                            <sz value = "1.0"/>
+                            <children>
+                                <__LEFT__ball__JOINT__>
+                                    <tx value = "7.32558978364"/>
+                                    <ty value = "0.623524685761"/>
+                                    <tz value = "5.03507442617"/>
+                                    <rx value = "-90.0"/>
+                                    <ry value = "4.54994513569"/>
+                                    <rz value = "-89.98795584"/>
+                                    <sx value = "1.0"/>
+                                    <sy value = "1.0"/>
+                                    <sz value = "1.0"/>
+                                    <children>
+                                        <__THIRD_TOE____LEFT__middleToe1__JOINT__>
+                                            <tx value = "6.8773123485"/>
+                                            <ty value = "0.6363421045"/>
+                                            <tz value = "7.64593641578"/>
+                                            <rx value = "-90.0"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__THIRD_TOE____LEFT__middleToe2__JOINT__>
+                                                    <tx value = "6.83552892843"/>
+                                                    <ty value = "0.639119807528"/>
+                                                    <tz value = "8.34246182427"/>
+                                                    <rx value = "-90.0"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__THIRD_TOE____LEFT__middleToe_Tip__JOINT__>
+                                                            <tx value = "6.79072198768"/>
+                                                            <ty value = "0.64209850996"/>
+                                                            <tz value = "9.08938901823"/>
+                                                            <rx value = "-90.0"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__THIRD_TOE____LEFT__middleToe_Tip__JOINT__>
+                                                    </children>
+                                                </__THIRD_TOE____LEFT__middleToe2__JOINT__>
+                                            </children>
+                                        </__THIRD_TOE____LEFT__middleToe1__JOINT__>
+                                        <__FIFTH_TOE____LEFT__bigToe1__JOINT__>
+                                            <tx value = "4.92471105166"/>
+                                            <ty value = "0.658545390388"/>
+                                            <tz value = "7.57387167335"/>
+                                            <rx value = "-90.0"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__FIFTH_TOE____LEFT__bigToe2__JOINT__>
+                                                    <tx value = "4.88292763158"/>
+                                                    <ty value = "0.661323093416"/>
+                                                    <tz value = "8.27039708184"/>
+                                                    <rx value = "-90.0"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__FIFTH_TOE____LEFT__bigToe_Tip__JOINT__>
+                                                            <tx value = "4.83812069083"/>
+                                                            <ty value = "0.664301795849"/>
+                                                            <tz value = "9.01732427579"/>
+                                                            <rx value = "-90.0"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__FIFTH_TOE____LEFT__bigToe_Tip__JOINT__>
+                                                    </children>
+                                                </__FIFTH_TOE____LEFT__bigToe2__JOINT__>
+                                            </children>
+                                        </__FIFTH_TOE____LEFT__bigToe1__JOINT__>
+                                        <__FOURTH_TOE____LEFT__indexToe1__JOINT__>
+                                            <tx value = "5.91189727578"/>
+                                            <ty value = "0.64782804557"/>
+                                            <tz value = "7.7358358493"/>
+                                            <rx value = "-90.0"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__FOURTH_TOE____LEFT__indexToe2__JOINT__>
+                                                    <tx value = "5.87011385571"/>
+                                                    <ty value = "0.650605748599"/>
+                                                    <tz value = "8.43236125779"/>
+                                                    <rx value = "-90.0"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__FOURTH_TOE____LEFT__indexToe_Tip__JOINT__>
+                                                            <tx value = "5.82530691495"/>
+                                                            <ty value = "0.653584451031"/>
+                                                            <tz value = "9.17928845175"/>
+                                                            <rx value = "-90.0"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__FOURTH_TOE____LEFT__indexToe_Tip__JOINT__>
+                                                    </children>
+                                                </__FOURTH_TOE____LEFT__indexToe2__JOINT__>
+                                            </children>
+                                        </__FOURTH_TOE____LEFT__indexToe1__JOINT__>
+                                        <__SECOND_TOE____LEFT__ringToe1__JOINT__>
+                                            <tx value = "7.74434925172"/>
+                                            <ty value = "0.625610507198"/>
+                                            <tz value = "7.56928390759"/>
+                                            <rx value = "-90.0"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__SECOND_TOE____LEFT__ringToe2__JOINT__>
+                                                    <tx value = "7.70256583165"/>
+                                                    <ty value = "0.628388210227"/>
+                                                    <tz value = "8.26580931607"/>
+                                                    <rx value = "-90.0"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__SECOND_TOE____LEFT__ringToe_Tip__JOINT__>
+                                                            <tx value = "7.66160624067"/>
+                                                            <ty value = "0.631111146255"/>
+                                                            <tz value = "8.94860157647"/>
+                                                            <rx value = "-90.0"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__SECOND_TOE____LEFT__ringToe_Tip__JOINT__>
+                                                    </children>
+                                                </__SECOND_TOE____LEFT__ringToe2__JOINT__>
+                                            </children>
+                                        </__SECOND_TOE____LEFT__ringToe1__JOINT__>
+                                        <__FIRST_TOE____LEFT__pinkyToe1__JOINT__>
+                                            <tx value = "8.50136886455"/>
+                                            <ty value = "0.616936120613"/>
+                                            <tz value = "7.51439077928"/>
+                                            <rx value = "-90.0"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__FIRST_TOE____LEFT__pinkyToe2__JOINT__>
+                                                    <tx value = "8.46548309407"/>
+                                                    <ty value = "0.619321756187"/>
+                                                    <tz value = "8.11260296251"/>
+                                                    <rx value = "-90.0"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__FIRST_TOE____LEFT__pinkyToe_Tip__JOINT__>
+                                                            <tx value = "8.42575323716"/>
+                                                            <ty value = "0.621962941223"/>
+                                                            <tz value = "8.77489567968"/>
+                                                            <rx value = "-90.0"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__FIRST_TOE____LEFT__pinkyToe_Tip__JOINT__>
+                                                    </children>
+                                                </__FIRST_TOE____LEFT__pinkyToe2__JOINT__>
+                                            </children>
+                                        </__FIRST_TOE____LEFT__pinkyToe1__JOINT__>
+                                        <__LEFT____REVERSE__toe__JOINT__>
+                                            <tx value = "7.32558978364"/>
+                                            <ty value = "0.80972927143"/>
+                                            <tz value = "7.4849055649"/>
+                                            <rx value = "-90.0"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__LEFT____REVERSE__bankIn__JOINT__>
+                                                    <tx value = "4.81060680327"/>
+                                                    <ty value = "0.752932140212"/>
+                                                    <tz value = "5.70467100345"/>
+                                                    <rx value = "-90.0"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__LEFT____REVERSE__bankOut__JOINT__>
+                                                            <tx value = "9.53844304307"/>
+                                                            <ty value = "0.752929991"/>
+                                                            <tz value = "5.70469801076"/>
+                                                            <rx value = "-90.0"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                                <__LEFT____REVERSE__heel__JOINT__>
+                                                                    <tx value = "7.1659986269"/>
+                                                                    <ty value = "0.773444226637"/>
+                                                                    <tz value = "-3.37007491057"/>
+                                                                    <rx value = "-90.0"/>
+                                                                    <ry value = "4.54994513569"/>
+                                                                    <rz value = "-89.98795584"/>
+                                                                    <sx value = "1.0"/>
+                                                                    <sy value = "1.0"/>
+                                                                    <sz value = "1.0"/>
+                                                                    <children>
+                                                                </children>
+                                                                </__LEFT____REVERSE__heel__JOINT__>
+                                                            </children>
+                                                        </__LEFT____REVERSE__bankOut__JOINT__>
+                                                    </children>
+                                                </__LEFT____REVERSE__bankIn__JOINT__>
+                                            </children>
+                                        </__LEFT____REVERSE__toe__JOINT__>
+                                    </children>
+                                </__LEFT__ball__JOINT__>
+                            </children>
+                        </__LEFT__ankle__JOINT__>
+                    </children>
+                </__LEFT__knee__JOINT__>
+            </children>
+        </__LEFT__hip__JOINT__>
+        <__RIGHT__hip__JOINT__>
+            <tx value = "-6.74643"/>
+            <ty value = "84.1232"/>
+            <tz value = "0.872149"/>
+            <rx value = "0"/>
+            <ry value = "0"/>
+            <rz value = "0"/>
+            <sx value = "1.0"/>
+            <sy value = "1.0"/>
+            <sz value = "1.0"/>
+            <children>
+                <__RIGHT__knee__JOINT__>
+                    <tx value = "-7.20061"/>
+                    <ty value = "43.7754"/>
+                    <tz value = "1.40093"/>
+                    <rx value = "07"/>
+                    <ry value = "0"/>
+                    <rz value = "0"/>
+                    <sx value = "1.0"/>
+                    <sy value = "1.0"/>
+                    <sz value = "1.0"/>
+                    <children>
+                        <__RIGHT__ankle__JOINT__>
+                            <tx value = "-7.20868"/>
+                            <ty value = "5.40428"/>
+                            <tz value = "-1.6526"/>
+                            <rx value = "-90.0000000001"/>
+                            <ry value = "0"/>
+                            <rz value = "-90"/>
+                            <sx value = "1.0"/>
+                            <sy value = "1.0"/>
+                            <sz value = "1.0"/>
+                            <children>
+                                <__RIGHT__ball__JOINT__>
+                                    <tx value = "-7.32559"/>
+                                    <ty value = "0.623525"/>
+                                    <tz value = "5.03507"/>
+                                    <rx value = "-90.0000000001"/>
+                                    <ry value = "4.54994513569"/>
+                                    <rz value = "-89.98795584"/>
+                                    <sx value = "1.0"/>
+                                    <sy value = "1.0"/>
+                                    <sz value = "1.0"/>
+                                    <children>
+                                        <__THIRD_TOE____RIGHT__middleToe1__JOINT__>
+                                            <tx value = "-6.87731"/>
+                                            <ty value = "0.636342"/>
+                                            <tz value = "7.64594"/>
+                                            <rx value = "-90.0000000001"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__THIRD_TOE____RIGHT__middleToe2__JOINT__>
+                                                    <tx value = "-6.83553"/>
+                                                    <ty value = "0.63912"/>
+                                                    <tz value = "8.34246"/>
+                                                    <rx value = "-90.0000000001"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__THIRD_TOE____RIGHT__middleToe_Tip__JOINT__>
+                                                            <tx value = "-6.79072"/>
+                                                            <ty value = "0.642099"/>
+                                                            <tz value = "9.08939"/>
+                                                            <rx value = "-90.0000000001"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__THIRD_TOE____RIGHT__middleToe_Tip__JOINT__>
+                                                    </children>
+                                                </__THIRD_TOE____RIGHT__middleToe2__JOINT__>
+                                            </children>
+                                        </__THIRD_TOE____RIGHT__middleToe1__JOINT__>
+                                        <__FIFTH_TOE____RIGHT__bigToe1__JOINT__>
+                                            <tx value = "-4.92471"/>
+                                            <ty value = "0.658545"/>
+                                            <tz value = "7.57387"/>
+                                            <rx value = "-90.0000000001"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__FIFTH_TOE____RIGHT__bigToe2__JOINT__>
+                                                    <tx value = "-4.88293"/>
+                                                    <ty value = "0.661323"/>
+                                                    <tz value = "8.2704"/>
+                                                    <rx value = "-90.0000000001"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__FIFTH_TOE____RIGHT__bigToe_Tip__JOINT__>
+                                                            <tx value = "-4.83812"/>
+                                                            <ty value = "0.664302"/>
+                                                            <tz value = "9.01732"/>
+                                                            <rx value = "-90.0000000001"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__FIFTH_TOE____RIGHT__bigToe_Tip__JOINT__>
+                                                    </children>
+                                                </__FIFTH_TOE____RIGHT__bigToe2__JOINT__>
+                                            </children>
+                                        </__FIFTH_TOE____RIGHT__bigToe1__JOINT__>
+                                        <__FOURTH_TOE____RIGHT__indexToe1__JOINT__>
+                                            <tx value = "-5.9119"/>
+                                            <ty value = "0.647828"/>
+                                            <tz value = "7.73584"/>
+                                            <rx value = "-90.0000000001"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__FOURTH_TOE____RIGHT__indexToe2__JOINT__>
+                                                    <tx value = "-5.87011"/>
+                                                    <ty value = "0.650606"/>
+                                                    <tz value = "8.43236"/>
+                                                    <rx value = "-90.0000000001"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__FOURTH_TOE____RIGHT__indexToe_Tip__JOINT__>
+                                                            <tx value = "-5.82531"/>
+                                                            <ty value = "0.653584"/>
+                                                            <tz value = "9.17929"/>
+                                                            <rx value = "-90.0000000001"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__FOURTH_TOE____RIGHT__indexToe_Tip__JOINT__>
+                                                    </children>
+                                                </__FOURTH_TOE____RIGHT__indexToe2__JOINT__>
+                                            </children>
+                                        </__FOURTH_TOE____RIGHT__indexToe1__JOINT__>
+                                        <__SECOND_TOE____RIGHT__ringToe1__JOINT__>
+                                            <tx value = "-7.74435"/>
+                                            <ty value = "0.625611"/>
+                                            <tz value = "7.56928"/>
+                                            <rx value = "-90.0000000001"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__SECOND_TOE____RIGHT__ringToe2__JOINT__>
+                                                    <tx value = "-7.70257"/>
+                                                    <ty value = "0.628388"/>
+                                                    <tz value = "8.26581"/>
+                                                    <rx value = "-90.0000000001"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__SECOND_TOE____RIGHT__ringToe_Tip__JOINT__>
+                                                            <tx value = "-7.66161"/>
+                                                            <ty value = "0.631111"/>
+                                                            <tz value = "8.9486"/>
+                                                            <rx value = "-90.0000000001"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__SECOND_TOE____RIGHT__ringToe_Tip__JOINT__>
+                                                    </children>
+                                                </__SECOND_TOE____RIGHT__ringToe2__JOINT__>
+                                            </children>
+                                        </__SECOND_TOE____RIGHT__ringToe1__JOINT__>
+                                        <__FIRST_TOE____RIGHT__pinkyToe1__JOINT__>
+                                            <tx value = "-8.50137"/>
+                                            <ty value = "0.616936"/>
+                                            <tz value = "7.51439"/>
+                                            <rx value = "-90.0000000001"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__FIRST_TOE____RIGHT__pinkyToe2__JOINT__>
+                                                    <tx value = "-8.46548"/>
+                                                    <ty value = "0.619322"/>
+                                                    <tz value = "8.1126"/>
+                                                    <rx value = "-90.0000000001"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__FIRST_TOE____RIGHT__pinkyToe_Tip__JOINT__>
+                                                            <tx value = "-8.42575"/>
+                                                            <ty value = "0.621963"/>
+                                                            <tz value = "8.7749"/>
+                                                            <rx value = "-90.0000000001"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                        </children>
+                                                        </__FIRST_TOE____RIGHT__pinkyToe_Tip__JOINT__>
+                                                    </children>
+                                                </__FIRST_TOE____RIGHT__pinkyToe2__JOINT__>
+                                            </children>
+                                        </__FIRST_TOE____RIGHT__pinkyToe1__JOINT__>
+                                        <__RIGHT____REVERSE__toe__JOINT__>
+                                            <tx value = "-7.32559"/>
+                                            <ty value = "0.809729"/>
+                                            <tz value = "7.48491"/>
+                                            <rx value = "-90.0000000001"/>
+                                            <ry value = "4.54994513569"/>
+                                            <rz value = "-89.98795584"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                <__RIGHT____REVERSE__bankIn__JOINT__>
+                                                    <tx value = "-4.81061"/>
+                                                    <ty value = "0.752932"/>
+                                                    <tz value = "5.70467"/>
+                                                    <rx value = "-90.0000000001"/>
+                                                    <ry value = "4.54994513569"/>
+                                                    <rz value = "-89.98795584"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "0.744244697075"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                        <__RIGHT____REVERSE__bankOut__JOINT__>
+                                                            <tx value = "-9.53844"/>
+                                                            <ty value = "0.752932"/>
+                                                            <tz value = "5.70467"/>
+                                                            <rx value = "-90.0000000001"/>
+                                                            <ry value = "4.54994513569"/>
+                                                            <rz value = "-89.98795584"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                                <__RIGHT____REVERSE__heel__JOINT__>
+                                                                    <tx value = "-7.166"/>
+                                                                    <ty value = "0.773446"/>
+                                                                    <tz value = "-3.3701"/>
+                                                                    <rx value = "-90.0000000001"/>
+                                                                    <ry value = "4.54994513569"/>
+                                                                    <rz value = "-89.98795584"/>
+                                                                    <sx value = "1.0"/>
+                                                                    <sy value = "1.0"/>
+                                                                    <sz value = "1.0"/>
+                                                                    <children>
+                                                                </children>
+                                                                </__RIGHT____REVERSE__heel__JOINT__>
+                                                            </children>
+                                                        </__RIGHT____REVERSE__bankOut__JOINT__>
+                                                    </children>
+                                                </__RIGHT____REVERSE__bankIn__JOINT__>
+                                            </children>
+                                        </__RIGHT____REVERSE__toe__JOINT__>
+                                    </children>
+                                </__RIGHT__ball__JOINT__>
+                            </children>
+                        </__RIGHT__ankle__JOINT__>
+                    </children>
+                </__RIGHT__knee__JOINT__>
+            </children>
+        </__RIGHT__hip__JOINT__>
+    </children>
+</pelvis__JOINT__>
+</root>
